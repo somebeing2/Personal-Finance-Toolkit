@@ -4,7 +4,7 @@
 
 Unlike static spreadsheets, this app features a **Dynamic Currency Selector** (supports USD, INR, EUR, GBP) and **Deep Linking** capabilities, making it a flexible tool for users worldwide to visualize wealth growth, budget effectively, and plan for retirement.
 
-**Live App:** [Insert your Streamlit App Link Here]
+**Live App:** [https://personal-finance-toolkit-wqeyrzacurjmba2wz2pkqf.streamlit.app/]
 
 ---
 
