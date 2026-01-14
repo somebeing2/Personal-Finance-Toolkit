@@ -29,10 +29,10 @@ The toolkit features **10+ calculators** organized into three key pillars:
 
 ###  Key Features
 
-* ** Universal Currency Support:** Users can toggle between **USD ($), INR (₹), EUR (€), and GBP (£)** instantly via the sidebar.
-* ** Deep Linking System:** Share specific tools directly with URL parameters (e.g., `/?tool=car` opens the Car Calculator immediately).
-* ** Responsive Interface:** Clean, mobile-friendly design built with Streamlit's latest components.
-* ** Privacy First:** All calculations are performed client-side in the browser session. No data is stored.
+* **Universal Currency Support:** Users can toggle between **USD ($), INR (₹), EUR (€), and GBP (£)** instantly via the sidebar.
+* **Deep Linking System:** Share specific tools directly with URL parameters (e.g., `/?tool=car` opens the Car Calculator immediately).
+* **Responsive Interface:** Clean, mobile-friendly design built with Streamlit's latest components.
+* **Privacy First:** All calculations are performed client-side in the browser session. No data is stored.
 ###  Tech Stack
 
 * **Frontend:** Streamlit (Python Web Framework)
